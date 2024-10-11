@@ -1,0 +1,14 @@
+{
+  "name": "chat_scrape",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": { 
+    "start": "node app.js", 
+    "test": "test" 
+  },
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "playwright": "^1.48.0"
+  }
+}
